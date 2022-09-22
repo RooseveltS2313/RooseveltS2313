@@ -4,9 +4,10 @@
 - ✨ Code that is stored in the repositiory are things that I have done during the my university time or after graduation
       that I think conveys both the techniques I was taught and my inexperience that I hope to fix
 - 📫 The best way to reach me is by 
-      EMAIL : rjseymour04@gmail.com
-      The second is
-      Linkedin.com/in/RooseveltSeymour
+      EMAIL : 
+      Primary: RSeymourJR01@outlook.com
+      Secondary: rjseymour04@gmail.com
+      
       
 
 <!---
