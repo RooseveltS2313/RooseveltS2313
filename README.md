@@ -5,7 +5,7 @@
       that I think conveys both the techniques I was taught and my inexperience that I hope to fix
 - 📫 The best way to reach me is by 
       EMAIL : 
-      Primary: RSeymourJR01@outlook.com
+      Primary: RSeymourJR04@outlook.com
       Secondary: rjseymour04@gmail.com
       
       
